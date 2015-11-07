@@ -25,13 +25,13 @@ Even though the project is technically very challenging we believe that anyone c
 
 **Assign some resources to work on this project.**
 
-Your organization will benefit by learning at an early stage how to live with the opportunity this technology offers. Send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED) to discuss the details.
+Your organization will benefit by learning at an early stage how to live with the opportunity this technology offers. Send us an email to _software_ dot _companies_ at _bitDubai_ dot _com_ to discuss the details.
 
 ### Do you know something we don’t?
 
 Contribute your knowledge.
 
-We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email from [here](https://bitdubai.com/wp/#GETINVOLVED).
+We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email to _contribute _ dot _ know_ dot _how_ at _bitDubai_ dot _com_.
 
 ### Do you have complementary ideas?
 
