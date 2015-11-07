@@ -11,33 +11,33 @@ Fermat is open to everyone. You don't need to be a developer to join us. We have
 
 ### Do you like the project?
 
-Share our story within your networks.
+**Share our story within your networks.**
 
 Help other people get to know what we are building. If you are intrigued with the project and would like to go further with its promotion, send us an email so that we can discuss your ideas.
 
 ### Are you a developer?
 
-Read the [Contributing Guide](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) to learn how to make casual contributions or join a developer team.
+**Read the [Contributing Guide](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) to learn how to make casual contributions or join a developer team.**
 
 Even though the project is technically very challenging we believe that anyone can make a useful contribution. Send us an email and we will discuss the details.
 
 ### Are you a software development company?
 
-Assign some resources to work on this project.
+**Assign some resources to work on this project.**
 
-Your organization will benefit by learning at an early stage how to live with the opportunity this technology offers. Send us an email to discuss the details.
+Your organization will benefit by learning at an early stage how to live with the opportunity this technology offers. Send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED) to discuss the details.
 
 ### Do you know something we don’t?
 
 Contribute your knowledge.
 
-We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email.
+We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email from [here](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Do you have complementary ideas?
 
 Share your ideas with us.
 
-Dozens of original ideas, not covered by this site, have already been implemented in the platform. We are keen to learn how you would improve it. Please send your ideas to this email.
+Dozens of original ideas, not covered by this site, have already been implemented in the platform. We are keen to learn how you would improve it. Please send your ideas to this email from [here](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Do you have money but only limited time?
 
@@ -45,11 +45,11 @@ Help us hire more developers.
 
 Even if you are short on time you can still be of help by contributing money to hire developers.
 
-Send us an email and we will discuss the details together.
+Send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED) and we will discuss the details together.
 
 ### Would you prefer to contribute anonymously?
 
-Send bitcoins to this address:
+Donate bitcoins to this address:
 
 18DTmmN17EyWPdLXxJ5GVkTszR8RhQWMy1
 
@@ -59,17 +59,7 @@ We respect your desire to contribute anonymously. Your contribution will be used
 
 ### Are you an Angel Investor?
 
-Even though Fermat P2P and Fermat PIP are public good projects, we have the intention of setting up a company around Fermat DMP. In order to be contacted when we move on to that phase please send us an email.
-
-Would you like to try the platform?
-
-Request an invite for an early trial.
-
-Request an invite at this email and we will allow you to try the platform as soon as it is ready.
-
-Support the project.
-
-Express your or your company’s support to the project. No money needed. Just write a support message and send it to this email so that we can show it to the community.
+Even though Fermat is an open source project, bitDubai, its main matainer is a startup where you might invest. In order to be contacted when we open a round please send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Are you a graphic / UI designer?
 
