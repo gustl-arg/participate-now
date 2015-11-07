@@ -17,7 +17,7 @@ Help other people get to know what we are building. If you are intrigued with th
 
 ### Are you a developer?
 
-Join the developers’ team.
+Read the [Contributing Guide](https://github.com/bitDubai/fermat/blob/master/CONTRIBUTING.md) to learn how to make casual contributions or join a developer team.
 
 Even though the project is technically very challenging we believe that anyone can make a useful contribution. Send us an email and we will discuss the details.
 
