@@ -29,7 +29,7 @@ Your organization will benefit by learning at an early stage how to live with th
 
 ### Do you know something we don’t?
 
-Contribute your knowledge.
+**Contribute your knowledge.**
 
 We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email to _contribute_ dot _know_ dot _how_ at _bitDubai_ dot _com_.
 
