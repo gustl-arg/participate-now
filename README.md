@@ -1,7 +1,13 @@
 ![alt text](https://github.com/bitDubai/fermat-graphic-design/blob/master/3D%20Design/3DLogotypes/FermatLogotype3D/Fermat_Logo_3D_Readme_header.jpg "Fermat Logo")
 
 
-## How to Partivipa in Fermat guide
+# How to Participate Guide
+
+<br>
+## Introduction
+
+Fermat is open to everyone. You don't need to be a developer to join us. We have prepared this guide with some tips on what you can do, depending on you skills and interests.
+
 
 ### Do you like the project?
 
