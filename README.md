@@ -8,6 +8,8 @@
 
 Fermat is open to everyone. You don't need to be a developer to join us. We have prepared this guide with some tips on what you can do, depending on you skills and interests.
 
+Plase note that Fermat's main mantainer is bitDubai. That is the reason why you might be redirected to bitDubai's site for further information.
+
 
 ### Do you like the project?
 
