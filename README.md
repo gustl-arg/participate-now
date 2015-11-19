@@ -35,13 +35,13 @@ We have already received input from a diverse range of professionals including e
 
 ### Do you have complementary ideas?
 
-Share your ideas with us.
+**Share your ideas with us.**
 
 Dozens of original ideas have already been implemented in Fermat. We are keen to learn how you would improve it. Please send your ideas to this email from [here](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Do you have money but only limited time?
 
-Help us hire more developers.
+**Help us hire more developers.**
 
 Even if you are short on time you can still be of help by contributing money to hire developers.
 
@@ -49,7 +49,7 @@ Send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED) and we will d
 
 ### Would you prefer to contribute anonymously?
 
-Donate bitcoins to this address:
+**Donate bitcoins to this address:**
 
 18DTmmN17EyWPdLXxJ5GVkTszR8RhQWMy1
 
