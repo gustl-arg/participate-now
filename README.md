@@ -69,53 +69,9 @@ Even though Fermat is an open source project, bitDubai, its main matainer is a s
 
 Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
 
-**Become a niche wallet developer.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-**Become a Plug-in developer.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-### Are you a project manager?
-
-**Help with the project management.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-### Are you a retailer / brand?
-
-**Request your branded wallet.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-### Are you a marketer / marketing agency?
-
-**Learn how to re-brand wallets for your customers.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-### Do you have a crypto service running?
-
-**Integrate your crypto service into Fermat PIP as a plug-in.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
 ### Are you from the press / media?
 
 **Write about us.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-Do you already have a crypto wallet?
-
-**Write a version of your wallet for Fermat.**
-
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
-
-### Are you a bank / financial institution?
-
-**Sign up for a pilot test.**
 
 Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
 
