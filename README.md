@@ -55,6 +55,9 @@ Send us an email from [here](https://bitdubai.com/wp/#GETINVOLVED) and we will d
 
 18DTmmN17EyWPdLXxJ5GVkTszR8RhQWMy1
 
+![alt text](https://raw.githubusercontent.com/bitDubai/participate-now/master/donate-QR.png "Donate Bitcoin")
+
+
 [note: the address changes periodically to enhance privacy]
 
 We respect your desire to contribute anonymously. Your contribution will be used to hire developers.
