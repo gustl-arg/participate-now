@@ -1,9 +1,29 @@
 ![alt text](https://github.com/bitDubai/media-kit/blob/master/Readme%20Image/Fermat%20Logotype/Fermat_Logo_3D.png "Fermat Logo")
 
-# Welcome to Fermat!
+# Fermat Frequently Asked Questions!
 
-In the last 20 years virtually everything went digital: pictures, music, videos, mails, etc. Nevertheless we still have cash as paper money. 
+We compiled here the most frequently asked questions we were asked about Fermat. 
 
-#### Why isn't cash money digital yet?
+## What is Fermat?
 
-The reason is that digital information can be cloned, and if digital cash could be cloned it would render it useless. When bitcoin was invented it brought with it the solution to the last barrier preventing money to go digital: the solution to the _double spend problem_.
+Fermat is p2p Financial Application Framework. It as two main components:
+
+* A p2p network for interconnecting devices between each other
+* A framework for devoloping and running decentralized financial applications
+
+## What is the difference between Fermat and Counterparty?
+
+* Counterparty is a protocol that adds some nice functionality on top of bitcoin implemented as a p2p network of nodes running this extended functionality. It also has a client software and an ecosystem of applications built on top of this infraestructure.
+
+* Fermat p2p network doesn't have any financial functionality at all. I neither extends bitcoins functionality in any way. Its purpose is just to interconect devices to exchange any kind of meta-data.
+
+* Fermat Framework doesn't have any financial functionality either. Its purpose is to host _Decentralized Financial Applications_ built with plug-ins. The framework provides access to any crypto network to allow apps to transport value, and to the Fermat network to transport meta-data.
+
+* The Fermat Framework hosts a stack of _Platforms_ on top of it. Each platform adds layer after layer of functionality to the whole system.
+
+So the answer to this question would be that the Architecture of Fermat and Counterparty is totally different. Fermat is higher on the stack and might have a plug-in to consume counterparty services and expose these services to other plug-ins within the Fermat Framework.
+
+
+
+
+
