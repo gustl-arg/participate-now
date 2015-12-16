@@ -2,7 +2,7 @@
 
 # Fermat Frequently Asked Questions!
 
-We compiled here the most frequently asked questions we were asked about Fermat. 
+We have compiled the most frequently asked questions we were asked about Fermat. 
 
 ## What is Fermat?
 
