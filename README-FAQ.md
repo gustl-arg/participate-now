@@ -8,8 +8,8 @@ We have compiled the most frequently asked questions we were asked about Fermat.
 
 Fermat is p2p Financial Application Framework. It as two main components:
 
-* A p2p network for interconnecting devices between each other
-* A framework for devoloping and running decentralized financial applications
+* A p2p network for interconnecting devices between each other.
+* A framework for devoloping and running decentralized financial applications.
 
 It's main goal is to decentralize the full stack up to the user interface.
 
