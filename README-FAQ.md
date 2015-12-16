@@ -27,7 +27,7 @@ So the answer to this question would be that the Architecture of Fermat and Coun
 
 ## What are the similarities between Fermat and Counterparty?
 
-At counterparty you have a decentralized exchange, as well as the ability to create virtual assets, issue dividends, create price feeds and bets, and enables anyone to create smart contracts, all this at a protocol level and implemented on their p2p network.
+At counterparty you have a decentralized exchange, as well as the ability to create virtual assets, issue dividends, create price feeds and bets, and create smart contracts, all this at a protocol level and implemented on their p2p network.
 
 Fermat might implement some of this functionality but running at a totally different level on the stack: at end user's devices. In some cases it might use a propietary implementation and in some others it might re-use Counterparty, Ethereum, Rootstock or other lower level service providers to do so.
 
