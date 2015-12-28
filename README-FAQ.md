@@ -2,24 +2,24 @@
 
 # Fermat Frequently Asked Questions!
 
-We have compiled the most frequently asked questions we were asked about Fermat. 
+We have compiled the most frequently asked questions about Fermat. 
 
 ## What is Fermat?
 
-Fermat is p2p Financial Application Framework. It as two main components:
+Fermat is p2p Financial Application Framework. It has two main components:
 
 * A p2p network for interconnecting devices between each other.
-* A framework for devoloping and running decentralized financial applications.
+* A framework for developing and running decentralized financial applications.
 
-It's main goal is to decentralize the full stack up to the user interface.
+Its main goal is to decentralize the full stack up to the user interface.
 
 ## What is the difference between Fermat and Counterparty?
 
-* Counterparty is a protocol that adds some nice functionality on top of bitcoin implemented as a p2p network of nodes running this extended functionality. It also has a client software and an ecosystem of applications built on top of this infraestructure.
+* Counterparty is a protocol that adds some nice functionality on top of bitcoin implemented as a p2p network of nodes running this extended functionality. It also has a client software and an ecosystem of applications built on top of this infrastructure.
 
-* Fermat p2p network doesn't have any financial functionality at all. I neither extends bitcoins functionality in any way. Its purpose is just to interconect devices to exchange any kind of meta-data.
+* Fermat p2p network does not have any financial functionality at all. It does not extend bitcoins functionality in any way either. Its purpose is just to interconnect devices to exchange any kind of meta-data.
 
-* Fermat Framework doesn't have any financial functionality either. Its purpose is to host _Decentralized Financial Applications_ built with plug-ins. The framework provides access to any crypto network to allow apps to transport value, and to the Fermat network to transport meta-data.
+* Fermat Framework does not have any financial functionality either. Its purpose is to host _Decentralized Financial Applications_ built with plug-ins. The framework provides access to any crypto network to allow apps to transport value, and to the Fermat network to transport meta-data.
 
 * The Fermat Framework hosts a stack of _Platforms_ on top of it. Each platform adds layer after layer of functionality to the whole system.
 
