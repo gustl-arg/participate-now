@@ -33,7 +33,7 @@ Your organization will benefit by learning at an early stage how to live with th
 
 **Contribute your knowledge.**
 
-We have already received input from a diverse range of professionals including economists, systems architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email to [here](https://bitdubai.com/wp/#GETINVOLVED).
+We have already received input from a diverse range of professionals including economists, system architects, designers, lawyers, etc. We appreciate contributions from experts on different fields. You can offer your expertise by sending us an email to [here](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Do you have complementary ideas?
 
@@ -41,7 +41,7 @@ We have already received input from a diverse range of professionals including e
 
 Dozens of original ideas have already been implemented in Fermat. We are keen to learn how you would improve it. Please send your ideas to this email [here](https://bitdubai.com/wp/#GETINVOLVED).
 
-### Do you have money but limited time?
+### Do you have the money but limited time?
 
 **Help us hire more developers.**
 
