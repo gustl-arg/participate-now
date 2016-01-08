@@ -6,12 +6,15 @@ We have compiled the most frequently asked questions about Fermat.
 
 ## What is Fermat?
 
-Fermat is p2p Financial Application Framework. It has two main components:
+### Fermat is a P2P Network, a Framework and a System of Integrated APPs:
 
-* A p2p network for interconnecting devices between each other.
-* A framework for developing and running decentralized financial applications.
+The Fermat P2P Network interconnects mobile phones between each other in order to exchange application data without needing to go through a centralized service.
 
-Its main goal is to decentralize the full stack up to the user interface.
+The Fermat Framework is like WordPress, but running on a mobile device or desktop computer instead of a server. Except that it is not intended for building web sites, but to build applications that need to hold large amounts of digital value at the end user’s devices.
+
+The System of Integrated APPs offers different products to end users. From the outside it looks like a set of mobile APPs targeting different use cases for different people, but on the inside there is an integrated system built with thousands of components collaborating between each other. These APPs are just the user interfaces, or skins of the underlying mechanisms. 
+
+Fermat's main goal is to decentralize the full stack up to the user interface.
 
 ## What is the difference between Fermat and Counterparty?
 
