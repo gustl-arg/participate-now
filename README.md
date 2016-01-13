@@ -43,9 +43,9 @@ Dozens of original ideas have already been implemented in Fermat. We are keen to
 
 ### Do you have the money but limited time?
 
-**Help us hire more developers.**
+****
 
-Even if you are short on time you can still be of help by contributing money to hire developers.
+Even if you are short on time you can still be of help by contributing money.
 
 Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) and we will discuss the details together.
 
@@ -60,11 +60,7 @@ Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) and we will dis
 
 [note: the address changes periodically to enhance privacy]
 
-We respect your desire to contribute anonymously. Your contribution will be used to hire developers.
-
-### Are you an Angel Investor?
-
-Even though Fermat is an open source project, bitDubai, its main maintainer is a startup where you might invest. In order to be contacted when we open a round please send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED).
+We respect your desire to contribute anonymously and we thank you for supporting the project.
 
 ### Are you a graphic / UI designer?
 
