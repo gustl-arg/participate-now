@@ -60,23 +60,23 @@ Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) and we will dis
 
 [note: the address changes periodically to enhance privacy]
 
-We respect your desire to contribute anonymously and we thank you for supporting the project.
+We respect your desire to contribute anonymously and we thank you for supporting the project!
 
 ### Are you a graphic / UI designer?
 
 **Get the design guidelines.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please refer to the [Contribution Program](https://github.com/bitDubai/contribution-program/blob/master/README.md).
 
 ### Are you from the press / media?
 
 **Write about us.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please contact us [contact](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Are you an event organizer?
 
 **Invite us to your event.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please contact us [contact](https://bitdubai.com/wp/#GETINVOLVED).
 
