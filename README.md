@@ -29,6 +29,13 @@ Even though the project is technically very challenging we believe that anyone c
 
 Your organization will benefit by learning at an early stage how to live with the opportunity this technology is offering. Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) to discuss the details.
 
+### Are you member of the software industry?
+**Do you want to add to add functionalities to your APP ? (enable for crypto and digital assets)**
+
+We manage a queue of third parties APPs to be coded by ourselves as a way to bootstrap the Fermat system.
+You will benefit from our expertise and from Fermat Framework huge potential.
+Please refer to [Fermat-Apps-Queue](https://github.com/bitDubai/fermat-apps-queue/blob/master/README.md)
+
 ### Do you know something we don’t?
 
 **Contribute your knowledge.**
@@ -43,9 +50,9 @@ Dozens of original ideas have already been implemented in Fermat. We are keen to
 
 ### Do you have the money but limited time?
 
-**Help us hire more developers.**
+****
 
-Even if you are short on time you can still be of help by contributing money to hire developers.
+Even if you are short on time you can still be of help by contributing money.
 
 Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) and we will discuss the details together.
 
@@ -60,27 +67,23 @@ Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) and we will dis
 
 [note: the address changes periodically to enhance privacy]
 
-We respect your desire to contribute anonymously. Your contribution will be used to hire developers.
-
-### Are you an Angel Investor?
-
-Even though Fermat is an open source project, bitDubai, its main maintainer is a startup where you might invest. In order to be contacted when we open a round please send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED).
+We respect your desire to contribute anonymously and we thank you for supporting the project!
 
 ### Are you a graphic / UI designer?
 
 **Get the design guidelines.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please refer to the [Contribution Program](https://github.com/bitDubai/contribution-program/blob/master/README.md).
 
 ### Are you from the press / media?
 
 **Write about us.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please contact us [contact](https://bitdubai.com/wp/#GETINVOLVED).
 
 ### Are you an event organizer?
 
 **Invite us to your event.**
 
-Please continue reading [here](https://bitdubai.com/wp/#GETINVOLVED).
+Please contact us [contact](https://bitdubai.com/wp/#GETINVOLVED).
 
