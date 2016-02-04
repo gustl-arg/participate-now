@@ -25,15 +25,15 @@ Even though the project is technically very challenging we believe that anyone c
 
 ### Are you a software development company?
 
-**Assign some resources to work on this project.**
+**Assign some resources to work on in this project.**
 
 Your organization will benefit by learning at an early stage how to live with the opportunity this technology is offering. Send us an email to [here](https://bitdubai.com/wp/#GETINVOLVED) to discuss the details.
 
-### Are you member of the software industry?
-**Do you want to add to add functionalities to your APP ? (enable for crypto and digital assets)**
+### Are you a member of the software industry?
+**Do you want to add functionalities to your APP? (enabled for crypto and digital assets)**
 
-We manage a queue of third parties APPs to be coded by ourselves as a way to bootstrap the Fermat system.
-You will benefit from our expertise and from Fermat Framework huge potential.
+We manage a queue of third party APPs coded by ourselves as a way of bootstraping the Fermat system.
+You will benefit from our expertise and from the Fermat Framework huge potential.
 Please refer to [Fermat-Apps-Queue](https://github.com/bitDubai/fermat-apps-queue/blob/master/README.md)
 
 ### Do you know something we don’t?
